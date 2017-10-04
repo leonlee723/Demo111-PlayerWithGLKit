@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ACCF6F523A586529374217A4624F3A675BD76835",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ACCF6F523A586529374217A4624F3A675BD76835" : 9223372036854775807,
+    "812D80ADE3B5238B6CFF0C791390B37FF4B13468" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D4AF428-A7E7-4249-8670-20204E1F3F04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ACCF6F523A586529374217A4624F3A675BD76835" : "Demo111-PlayerWithGLKit\/",
+    "812D80ADE3B5238B6CFF0C791390B37FF4B13468" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LearnOpenGLES",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LearnOpenGLES.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/loyinglin\/LearnOpenGLES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "812D80ADE3B5238B6CFF0C791390B37FF4B13468"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leonlee723\/Demo111-PlayerWithGLKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACCF6F523A586529374217A4624F3A675BD76835"
+    }
+  ]
+}
